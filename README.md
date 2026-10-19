@@ -14,8 +14,6 @@ CEP146 – Software Development
 - Member 1: Research, script writing, and presentation
 - Member 2: Research, slides, video editing, and presentation
 
-## YouTube Presentation
-Video link: Coming soon
 
 ## Project Materials
 Research notes, presentation script, and other project materials will be included in this repository.
