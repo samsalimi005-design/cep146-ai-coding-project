@@ -16,8 +16,7 @@ However, AI does not replace the need to understand programming. Developers stil
 
 ## Speaker 2 – Ilya (Limitations and Conclusion)
 
-Now, let's discuss some limitations of GitHub Copilot.
-
+ Now, let’s discuss some important limitations of GitHub Copilot. 
 First, AI-generated code is not always correct. Sometimes it contains bugs or produces unexpected results.
 
 Second, AI suggestions may introduce security risks. Developers should always review and test the generated code.
