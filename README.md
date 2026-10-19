@@ -19,3 +19,6 @@ Video link: Coming soon
 
 ## Project Materials
 Research notes, presentation script, and other project materials will be included in this repository.
+## Final Presentation Video
+
+YouTube: https://youtu.be/Y44wWEY1LKo
